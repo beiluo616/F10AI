@@ -30,6 +30,18 @@
 
 ![排版及文字工具](assets/screenshots/06-layout-and-text-tools.png)
 
+## 功能视频演示
+
+### 转曲还原 · 字体匹配与文字恢复
+
+演示选中设计中的转曲文字，使用「转曲还原」进行文字识别、匹配本机字体并查看候选结果的操作流程。
+
+[![观看 F10AI 转曲还原操作演示](assets/demos/font-restore-cover.jpg)](assets/demos/font-restore.mp4)
+
+[观看完整视频（约 58 秒）](assets/demos/font-restore.mp4)
+
+> 演示效果取决于原始文字结构、本机已安装字体及插件版本；字体匹配结果可能需要人工确认。
+
 ## 主要功能
 
 | 分类 | 功能 | 用途 |
