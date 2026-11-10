@@ -6,7 +6,7 @@
 
 **将 AI 创作、图像处理、字体管理及印前辅助工具集成到 CorelDRAW。**
 
-![Windows](https://img.shields.io/badge/Windows-Desktop-5269eb) ![CorelDRAW](https://img.shields.io/badge/CorelDRAW-X8--2026-5269eb) ![License](https://img.shields.io/badge/Software-Commercial%20%2F%20Closed%20Source-555555)
+![Windows](https://img.shields.io/badge/Windows-Desktop-5269eb) ![CorelDRAW](https://img.shields.io/badge/CorelDRAW-X8--2026-5269eb) ![License](https://img.shields.io/badge/Software-Closed%20Source-555555)
 
 [功能介绍](#主要功能) · [界面预览](#界面预览) · [安装教程](docs/installation.md) · [English](README_EN.md) · [问题反馈](../../issues)
 
@@ -50,6 +50,20 @@
 ![拼版与 CDR Agent](assets/screenshots/07-imposition-and-agent.jpg)
 
 > 说明：部分功能需要网络、第三方服务、本地 AI 模型或其他软件支持；处于开发或测试状态的功能不代表已经在正式版本开放。
+
+## 技术架构
+
+F10AI 面向 Windows 平台，结合 CorelDRAW 扩展接口与现代化界面技术，将 AI 图像处理、文字工具及印前工作流整合到统一工具中心。
+
+| 技术 | 主要用途 |
+| --- | --- |
+| **C# / .NET** | 插件核心逻辑、功能调度及 CorelDRAW 交互 |
+| **HTML / CSS / JavaScript** | 工具中心、功能窗口及交互界面 |
+| **WebView2** | 承载部分现代化插件界面 |
+| **Node.js** | 在线服务与 AI 接口通信 |
+| **Python / PyTorch** | 部分本地 AI 模型推理与图像处理 |
+
+> 以上是技术栈概览，不涉及未公开的源代码、接口配置或授权机制；部分功能并不需要安装全部技术依赖。
 
 ## 运行环境
 
