@@ -1,8 +1,8 @@
 # F10AI 安装说明
 
-> 官方安装包地址、版本号及详细安装要求待补充。目前此页为安装流程简介，不建议下载未经验证的第三方安装包。
+> 目前下载入口：[F10AI 飞书下载页面](https://wwslacom.feishu.cn/wiki/MqTDwS1l5iw6r6k5H3Sc44x7nbc)。建议从此页面获取安装包，不要使用未经验证的第三方安装包。
 
-1. 从 F10AI 官方确认的下载渠道获取正式安装包。
+1. 从 [F10AI 飞书下载页面](https://wwslacom.feishu.cn/wiki/MqTDwS1l5iw6r6k5H3Sc44x7nbc) 获取正式安装包。
 2. 关闭 CorelDRAW，根据安装程序提示完成安装。
 3. 启动受支持的 CorelDRAW，检查 F10AI 工具中心或工具栏入口。
 4. 根据需要在工具中心配置功能显示、主题及 AI 渠道。
