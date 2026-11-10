@@ -1,0 +1,17 @@
+# Showcase repository — never commit private implementation or build artifacts
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+*.p12
+*.log
+*.dll
+*.exe
+*.msi
+*.zip
+node_modules/
+bin/
+obj/
+runtime/
+local_matting_service/
